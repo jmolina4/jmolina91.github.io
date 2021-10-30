@@ -8,7 +8,7 @@ tags: [teams, feedback, best-practices]
 icon: icon-html
 ---
 
-We can categorise "Developing Software" as a complicated problem following the Cynefin Framework, a problem that we know what needs to be done, we explore multiple options and finally we implement one of them.
+We can categorise "Developing Software" as a complicated problem following the [Cynefin Framework](https://en.wikipedia.org/wiki/Cynefin_framework#Complicated), a problem that we know what needs to be done, we explore multiple options and finally we implement one of them.
 But, is it always the reality? We have seen a lot the following picture where a customer wanted X but instead we delivered Y.
 Moreover, this uncertainty not only applies to the features we need to implement in a product, but also when writing software. How many times have you written a code that you thought it would solve the problem and finally didn't?
 <p align="center">
