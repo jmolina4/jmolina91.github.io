@@ -1,4 +1,4 @@
-    ---
+---
 layout: post
 title: "ThoughtWorks Spain, a modern consultancy"
 date: 2019-09-09
