@@ -4,8 +4,7 @@ title: "Leadership is not about you, it's about them"
 date: 2021-04-10
 desc: "Leadership is a skill that you cannot properly improve if you only focus about yourself when leading a team."
 keywords: "Leadership, Team, Software"
-categories: [software development]
-tags: [sw, developers, engineer]
+tags: [leadership, teams]
 icon: icon-html
 ---
 

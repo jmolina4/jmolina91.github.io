@@ -4,8 +4,7 @@ title: "The mechanisms to build long-term high-performing teams"
 date: 2021-06-13
 desc: ""
 keywords: "Leadership, Team, Software"
-categories: [software development]
-tags: [sw, developers, engineer]
+tags: [leadership, teams]
 icon: icon-html
 ---
 <p align="center">

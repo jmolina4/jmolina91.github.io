@@ -3,9 +3,8 @@ layout: post
 title: "ThoughtWorks Spain, a modern consultancy"
 date: 2019-09-09
 desc: "About my experience at ThoughtWorks after 8 months"
-keywords: "Developer, Programming, Software"
-categories: [software development]
-tags: [sw, developers, engineer]
+keywords: "Thoughtworks, Programming, Software"
+tags: [Thoughtworks, culture, engineering]
 icon: icon-html
 ---
 
