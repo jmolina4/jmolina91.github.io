@@ -10,7 +10,7 @@ url: "https://javimolina.me" # the base hostname & protocol for your site, e.g. 
 # Author Settings
 author:
   name: Javi Molina
-  bio: I'm a software & data enthusiast. Lead Developer at Thoughtworks.
+  bio: I'm a software, data & leadership. Lead Developer at Thoughtworks.
   avatar: '/images/profile.jpg'
 
 social:
@@ -24,7 +24,7 @@ social:
 # Hero Settings
 hero:
   hero__title: Hey, I’m Javi!
-  hero__description: I'm a software & data enthusiast. Lead Developer at Thoughtworks.
+  hero__description: I'm a software, data & leadership enthusiast. Lead Developer at Thoughtworks.
   hero__image: '/images/profile.jpg'
 
 
@@ -49,7 +49,7 @@ contact:
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: anvodstudio-demo # add your shortname for Disqus Comment. For example anvodstudio-demo
+disqus-identifier: disqus_YWAHjLWrEm # add your shortname for Disqus Comment. For example anvodstudio-demo
 
 
 #-------------------------------
