@@ -1,11 +1,9 @@
 ---
 layout: post
 title: "Fast-Feedback Development (FFD)"
-date: 2021-12-07
 desc: "Description of software development practises to shorten development feedback loop"
 keywords: "Feedback, Team, Software"
 tags: [teams, feedback, best-practices]
-icon: icon-html
 ---
 3 ideas:
 - Writing software is hard and requires feedback
