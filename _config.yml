@@ -16,6 +16,7 @@ author:
 social:
 - {icon: "ion-logo-twitter", label: Twitter, link: "https://twitter.com/_javimolina_"}
 - {icon: "ion-logo-github", label: Github, link: "https://github.com/jmolina4"}
+- {icon: "ion-logo-linkedin", label: Linkedin, link: "https://www.linkedin.com/in/javier-molina-s%C3%A1nchez-11121730/"}
 
 # Example of adding a new link to the author section and footer - {icon: "ion-logo-github", label: Github, link: "https://github.com"}
 # Other icons can be found at https://ionicons.com/v4/
